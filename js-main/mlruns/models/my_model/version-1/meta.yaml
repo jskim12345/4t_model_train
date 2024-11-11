@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730789021473
+current_stage: None
+description: null
+last_updated_timestamp: 1730789021473
+name: my_model
+run_id: d06dd131f9f74b44b39ced9cb051162d
+run_link: null
+source: file:///c:/Users/user/Downloads/GKT-master/mlruns/0/d06dd131f9f74b44b39ced9cb051162d/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/user/Downloads/GKT-master/mlruns/0/d06dd131f9f74b44b39ced9cb051162d/artifacts/sklearn-model
+user_id: null
+version: 1

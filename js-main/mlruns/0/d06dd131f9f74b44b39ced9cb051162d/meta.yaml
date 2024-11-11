@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Downloads/GKT-master/mlruns/0/d06dd131f9f74b44b39ced9cb051162d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d06dd131f9f74b44b39ced9cb051162d
+run_name: crawling-penguin-208
+run_uuid: d06dd131f9f74b44b39ced9cb051162d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730789019004
+status: 1
+tags: []
+user_id: user
