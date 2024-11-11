@@ -14,7 +14,7 @@ from models import GKT, MultiHeadAttention, VAE, DKT
 from metrics import KTLoss, VAELoss
 from processing import load_dataset
 
-# 하이퍼파라미터 설정
+
 parser = argparse.ArgumentParser()
 parser.add_argument('--no-cuda', action='store_false', default=True, help='Disables CUDA training.')
 parser.add_argument('--seed', type=int, default=42, help='Random seed.')
